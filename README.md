@@ -4,14 +4,16 @@ I'm a computer scientist specializing in big data and machine learning. I've bee
 
 I'm currently leading ML efforts at [lacework](http://www.lacework.com), a cloud security startup. We collect billions of messages per hour from machines and logs, and use a variety of techniques including self-supervised graph representation learning and anomaly detection.
 
+
+
 # experience
 
 ### 2020-present Distinguished Engineer, Lacework
 I work on ML and large-scale data processing efforts at Lacework, a cloud security startup trying to treat cloud security as a big data problem. We collect billions of messages per hour from agents and cloud data sources, and use a variety of techniques including unsupervised graph representation learning and anomaly detection. We raised ~$1.9B with a valuation of over ~$8B.
 
 ### 2018-2020 Entrepreneur in residence, Milliways/Rocketship.vc
-I was an EIR, exploring ideas around deep RL. One project was to train a high-frequency trading agent to learn how to exploit market microstructure. We collected several TBs of level 3 messages from a large cryptocurrency exchange. This was able to do full nanosecond LOB reconstruction and simulation for better queue length estimation, etc. Helped Stanford students explore similar ideas via CS246 coursework.
-https://medium.com/@andytwigg/learning-to-trade-with-deep-rl-666ed6bbd921
+I was an EIR, exploring ideas around deep RL. One project was to use RL to [learn how to trade](https://medium.com/@andytwigg/learning-to-trade-with-deep-rl-666ed6bbd921
+) with L3 data. We build a full simulator on L3 data with several TBs from a large crypto exchange. This enabled us to do per-tick book reconstruction for better queue length estimation, etc.
 
 ### 2014-17 Chief Scientist, Insidesales.com and CTO, C9 (acquired by Insidesales.com)
 I was CTO at C9, we were one of the first companies to apply deep ML to problems in sales data, including forecasting and opportunity scoring. [Acquired by Insidesales.com](https://blogs.wsj.com/venturecapital/2015/05/28/insidesales-com-acquires-c9-in-predictive-analytics-battle/), where I was Chief Scientist until 2017. We grew to over 800 people and raised over $250m in funding.
@@ -25,8 +27,7 @@ I was founder+CTO at Acunu, where we worked on new approaches to [write-optimize
 ### 2008-13 Oxford CS Department & Fellow, St. John's College, Oxford
 Research interests: efficient algorithms for data mining via approximation, streaming, machine learning. Took a sabattical to found Acunu.
 
-
-You can find more info in my [linkedin profile](https://www.linkedin.com/in/andytwigg/) and [resume](resume.pdf).
+You can find more info in my [linkedin profile](https://www.linkedin.com/in/andytwigg/) and [resume](resume.pdf), and you can contact me at `andy[at]atwigg[dot]com`
 
 # selected publications
 
