@@ -1,5 +1,3 @@
-# Andy Twigg
-
 I'm a computer scientist interested in self-improvement.
 
 - now: AI infra at Google
