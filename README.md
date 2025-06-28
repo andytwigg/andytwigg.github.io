@@ -23,4 +23,5 @@ I enjoy being involved with deeply-technical VC firms:
 
 I grew up in the UK and live in the Bay Area. I play drums and I rowed for Cambridge men's lightweights.
 
-[andy@atwigg.com](mailto:andy@atwigg.com) | more detailed [resume](resume.pdf)
+[andy@atwigg.com](mailto:andy@atwigg.com)
+
