@@ -1,9 +1,9 @@
 I'm a computer scientist working on AI infra at Google.
 
 - 2024-now: AI infra at Google (OSS TPU RL stack, previously gemini data infra)
-- 2020: head of ML at Lacework - a cloud security startup, [raised $2B @ 8.3B](https://www.reuters.com/technology/cloud-security-startup-lacework-valued-83-bln-after-mammoth-funding-round-2021-11-18/), acquired by Fortinet. I designed and trained the core foundational GNNs for detection across lots of log data.
+- 2020: head of ML at Lacework (acquired by Fortinet) - a cloud security startup, [raised $2B @ 8.3B](https://www.reuters.com/technology/cloud-security-startup-lacework-valued-83-bln-after-mammoth-funding-round-2021-11-18/), acquired by Fortinet. I designed and trained the core foundational GNNs for detection across lots of log data.
 - 2018: EIR @ [rocketship.vc](https://rocketship.vc) - using RL to train agents to trade limit orders based on L3 microstructure: see [deeptrade/](https://github.com/andytwigg/deeptrade). Used as a project for Stanford "mining massive datasets" class.
-- 2013: Chief Scientist+CTO, C9 (acquired)/Insidesales - one of the first companies to apply [ML to sales data](https://www.slideshare.net/slideshow/data-science-at-insidesalescom/50979307). [Acquired](https://www.wsj.com/articles/BL-VCDB-17087) by [insidesales.com](https://www.businessinsider.com/insidesales-grows-with-ex-salesforce-execs-2015-10) (grew to ~800 people, ~$1.5b valuation)
+- 2013: CTO, C9 (acquired by Insidesales.com - applying [ML to sales data](https://www.slideshare.net/slideshow/data-science-at-insidesalescom/50979307). [Acquired](https://www.wsj.com/articles/BL-VCDB-17087) by [insidesales.com](https://www.businessinsider.com/insidesales-grows-with-ex-salesforce-execs-2015-10) (grew to ~800 people, ~$1.5b valuation)
 - 2012: founder, [featurestream](https://www.slideshare.net/slideshow/featurestream2-48824155/48824155) - I built a [streaming ML system](https://medium.com/@andytwigg/featurestream-io-random-forests-6992b03b521) but building an MLaaS company is tough.
 - 2009: founder/CTO, Acunu (acquired by Apple). We built a streaming analytics engine on Cassandra and worked on [cache-oblivious indexing algorithms](https://arxiv.org/abs/1707.08186) [for SSDs](https://arxiv.org/abs/1103.4282).
 
